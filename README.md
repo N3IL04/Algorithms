@@ -1,2 +1,2 @@
 # Data Structures and Algorithms
-My solutions to a number of different algorithms
+My solutions/implementation to a number of different algorithms/data structures
